@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Mała osobista kolekcja funkcji narzędziowych dla Pythona
 Name:		python-littleutils
 # keep 0.2.2 here for python2 support
 Version:	0.2.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/littleutils/
